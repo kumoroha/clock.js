@@ -1,7 +1,5 @@
 # clock.js
 
----
-
 htmlに読み込んで、時計を表示させるJavascriptです。
 まずclock.jsを`<script src="clock.js"></script>`のように読み込ませ、
 ```
